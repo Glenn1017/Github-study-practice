@@ -1,0 +1,8 @@
+name:    num:
+coffee - 7
+galgame - 100
+mc - 6
+costco - 74
+costco - 74
+costco - 70
+costco - 70
